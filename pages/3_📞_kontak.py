@@ -22,7 +22,6 @@ form_kontak = """
 with col2:
     st.markdown(
     """
-        📞 (021)- 0123 4567
         
         📧 muhmammdhidytllh@gmail.com
         
